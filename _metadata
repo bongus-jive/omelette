@@ -1,8 +1,8 @@
 {
-  "version" : "1.0",
+  "version" : "1.0.1",
   "author" : "patman",
   "tags" : "Miscellaneous|Food and Farming",
-  "description" : "puts this image on screen if you have never crafted an \"omelette\"\n\nmake omelette at kitchen table thing\n\nthat is all\n\n\n[h1]https://discord.gg/GdsQSgV[/h1]\nhttps://www.patreon.com/pathiccstar",
+  "description" : "puts this image on screen if you have never crafted an \"omelette\"\nif you have crafted an \"omelette\" it will display another image\n\nmake omelette at kitchen table thing\n\nthat is all\n\n\n[h1]https://discord.gg/GdsQSgV[/h1]\nhttps://www.patreon.com/pathiccstar\n\nthis took 8 minutes to make",
   "name" : "anomelette",
   "friendlyName" : "an omelette",
   "steamContentId" : "2404620124",
