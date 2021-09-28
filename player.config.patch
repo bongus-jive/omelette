@@ -1,7 +1,7 @@
 [
   {
     "op": "add",
-    "path": "/companionsConfig/scripts/-",
+    "path": "/genericScriptContexts/anomelette",
     "value": "/pat/omelette/omelette.lua"
   }
 ]

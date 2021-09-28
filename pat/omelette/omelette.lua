@@ -1,8 +1,4 @@
-local omelette_init = init or function() end
-
 function init()
-	omelette_init()
-	
 	local list = player.collectables("cooking")
 	local omelette = false
 	
